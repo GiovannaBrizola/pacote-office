@@ -1,0 +1,150 @@
+
+.corpo{
+    background-image: url("imagens/img5.jpg");
+    background-size: cover;
+    text-align: center;
+    font-size:center ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+    
+.fundo {
+    background-color:  rgb(156, 179, 209); 
+}   
+.fundoverde {
+    background-color: rgb(111, 168, 144);
+}
+.fundopp {
+    background-color: #dbccc4;
+}
+.img {
+    width: px;
+    height:11%; 
+}
+
+ul {
+    list-style-type: none;
+    padding: 25px;
+    background-color: #333;
+    font-family:Arial, Helvetica, sans-serif;
+    display: inline-block;
+    color: white;
+    width: 570px;
+    margin:10px;
+     
+}
+    
+li {
+    float:left; }
+      
+li a {
+    display: block;
+    color: white;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none; 
+}
+
+.scrollmenu {
+    position: static;
+    background-color:#2b5797;
+    font-family:Arial, Helvetica, sans-serif;
+    display: inline-block;
+    color: white;
+    text-align: justify;
+    padding: 25px;
+    width: 570px;
+    font-size: larger;  
+}
+
+.excel {
+    position: static;
+    background-color:#185c37;
+    font-family:Arial, Helvetica, sans-serif;
+    display: inline-block;
+    color: white;
+    text-align: justify;
+    padding: 25px;
+    width: 570px;  
+    font-size: larger;
+}
+
+.pp {
+    position: static;
+    background-color:#bd4532;
+    font-family:Arial, Helvetica, sans-serif;
+    display: inline-block;
+    color: white;
+    text-align: justify;
+    padding: 25px;
+    width: 570px;  
+    font-size: larger;
+}
+
+.title {
+    background-color:  rgb(25, 72, 134);
+    color: rgb(131, 110, 110);
+    text-align: center;
+    width: 50%;
+    position: static;
+    border: spacing 5px; 
+}
+
+
+.td {
+    padding: 15px;
+    background-color:#2b5797 ;
+    color: #eeeded;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.table2 {
+    padding: 15px;
+    background-color:#185c37;
+    color: #eeeded;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+.td2 {
+    padding: 15px;
+    background-color:#185c37 ;
+    color: #eeeded;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+.td3 {
+    padding: 15px;
+    background-color:#bd4532 ;
+    color: #eeeded;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.pctoffice{
+    background-color: #eeeded; 
+    position: static;
+    text-align: center; 
+    margin:50px;
+    padding: 2px;
+}
+.inicio {
+    position: static;
+    background-color:#333;
+    font-family:Arial, Helvetica, sans-serif;
+    display: inline-block;
+    color: white;
+    text-align:justify;
+    padding: 25px;
+    width: 570px;
+    font-size: larger;  
+}
+.tituloinicio{
+    background-color:#333;
+    font-family:Arial, Helvetica, sans-serif;
+    display: inline-block;
+    color: white;
+    text-align:center;
+    padding: 25px;
+    width: 570px;
+    margin:10px;
+    font-size: larger;  
+}
